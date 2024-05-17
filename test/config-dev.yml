@@ -1,0 +1,6 @@
+config:
+  info: "主分支,spring-config/config-dev.yml version=1.0" 
+  case:
+    hello: "你好"
+my:
+  test-info: "测试数据123"
