@@ -1,0 +1,4 @@
+config:
+  info: "主分支,springc-config/config-dev.yml version=1.0" 
+my:
+  test-info: "这是一条测试配置"
